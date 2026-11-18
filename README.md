@@ -1,1 +1,3 @@
-# AyrikMatematik6.HaftaOdev
+# Ayrık Matematik 6. Hafta Ödevi
+
+Ayrık matematik 6. hafta kapsamında fonksiyonlar, fonksiyon çeşitleri, bileşke fonksiyon ve ters fonksiyon konularını içeren ödev çalışmamı ekledim. İçerikte birebir ve örtenlik ispatları, bileşke fonksiyon örnekleri, ters fonksiyon hesaplamaları ve kısıtlama örnekleri yer alıyor. Özellikle bileşke işleminin birleşme özelliğini ve ters fonksiyonun farklı yöntemlerle nasıl bulunabileceğini örnekler üzerinden ele aldım. Konuyu hem teorik tanımlarla hem de çözümlü sorularla destekleyerek notları düzenli tuttum. İlerleyen haftalarda bu temelin üzerine inşa edilecek konular için sağlam bir referans oldu.
